@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = /Users/cb-it-01-1563/work/todo-test-app/client
